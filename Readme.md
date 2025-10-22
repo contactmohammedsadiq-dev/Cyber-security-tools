@@ -118,10 +118,4 @@ Use this code at your own risk. No warranty is provided. Include your preferred 
 
 ---
 
-If you want, I can:
 
-* generate a `Dockerfile` for a lab-only build,
-* extend the script to produce a CSV/HTML findings report,
-* or convert this README into a neat GitHub repo structure with example config files.
-
-Tell me which and I’ll add it right away.
